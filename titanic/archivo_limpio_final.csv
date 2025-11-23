@@ -1,419 +1,892 @@
-Pclass,Sex,Age,Fare,Embarked,FirstName,LastName
-3,male,34,7.8292,Q,James,Kelly
-3,female,47,7.0,S,Ellen Needs,Wilkes
-2,male,62,9.6875,Q,Thomas Francis,Myles
-3,male,27,8.6625,S,Albert,Wirz
-3,female,22,12.2875,S,Helga E Lindqvist,Hirvonen
-3,male,14,9.225,S,Johan Cervin,Svensson
-3,female,30,7.6292,Q,Kate,Connolly
-2,male,26,29.0,S,Albert Francis,Caldwell
-3,female,18,7.2292,C,Sophie Halaut Easu,Abrahim
-3,male,21,24.15,S,John Samuel,Davies
-3,male,27,7.8958,S,Ylio,Ilieff
-1,male,46,26.0,S,Charles Cresson,Jones
-1,female,23,82.2667,S,Nelle Stevenson,Snyder
-2,male,63,26.0,S,Benjamin,Howard
-1,female,47,61.175,S,Carrie Constance Toogood,Chaffee
-2,female,24,27.7208,C,Argenia Genovesi,del Carlo
-2,male,35,12.35,Q,Daniel,Keane
-3,male,21,7.225,C,Gerios,Assaf
-3,female,27,7.925,S,Ida Livija,Ilmakangas
-3,female,45,7.225,C,Miriam,Assaf Khalil
-1,male,55,59.4,C,Martin,Rothschild
-3,male,9,3.1708,S,Artur Karl,Olsen
-1,female,27,31.6833,S,Antoinette,Flegenheim
-1,male,21,61.3792,C,Richard Norris II,Williams
-1,female,48,262.375,C,Emily Maria Borie,Ryerson
-3,male,50,14.5,S,Alexander A,Robins
-1,female,22,61.9792,C,Helene Ragnhild,Ostby
-3,male,22,7.225,C,Shedid,Daher
-1,male,41,30.5,S,John Bertram,Brady
-3,male,27,21.6792,C,Elias,Samaan
-2,male,50,26.0,S,Charles Alexander,Louch
-2,male,24,31.5,S,Clifford Thomas,Jefferys
-3,female,33,20.575,S,Eva Georgetta Light,Dean
-3,female,27,23.45,S,Elizabeth Lily Watson,Johnston
-1,male,30,57.75,C,Philipp Edmund,Mock
-3,male,18,7.2292,C,Catavelas Vassilios,Katavelas
-3,female,27,8.05,S,Sarah A,Roth
-3,female,21,8.6625,S,Manda,Cacic
-3,male,25,9.5,S,Julius,Sap
-3,male,27,56.4958,S,Ling,Hee
-3,male,39,13.4167,C,Franz,Karun
-1,male,27,26.55,S,Thomas Parham,Franklin
-3,male,41,7.85,S,Nathan,Goldsmith
-2,female,30,13.0,S,Irene Colvin,Corbett
-1,female,45,52.5542,S,Gertrude Parsons,Kimball
-3,male,25,7.925,S,Nikolai Johannes,Peltomaki
-1,male,45,29.7,C,Paul Romaine,Chevre
-3,male,27,7.75,Q,Patrick,Shaughnessy
-1,female,60,76.2917,C,Emma Eliza Ward,Bucknell
-3,female,36,15.9,S,Winnie Minnie Treanor,Coutts
-1,male,24,60.0,S,Lucien Philip,Smith
-2,male,27,15.0333,C,Franz,Pulbaum
-2,female,20,23.0,S,Ellen Nellie,Hocking
-1,female,28,263.0,S,Ethel Flora,Fortune
-2,male,27,15.5792,C,Serafino Emilio,Mangiavacchi
-3,male,10,29.125,Q,Albert,Rice
-3,male,35,7.8958,S,Bartol,Cor
-3,male,25,7.65,S,Olaus Jorgensen,Abelseth
-3,male,27,16.1,S,Thomas Henry,Davison
-1,female,36,262.375,C,Victorine,Chaudanson
-3,male,17,7.8958,S,Mirko,Dika
-2,male,32,13.5,S,Arthur Gordon,McCrae
-3,male,18,7.75,S,Ernst Herbert,Bjorklund
-3,female,22,7.725,Q,Bridget Delia,Bradley
-1,male,13,262.375,C,John Borie,Ryerson
-2,female,27,21.0,S,Mary Phyllis Elizabeth Miller,Corey
-3,female,18,7.8792,Q,Mary Delia,Burns
-1,male,47,42.4,S,Clarence Bloomfield,Moore
-1,male,31,28.5375,C,Gilbert Milligan Jr,Tucker
-1,female,60,263.0,S,Mary McDougald,Fortune
-3,female,24,7.75,Q,Bertha E,Mulvihill
-3,male,21,7.8958,S,Lazar,Minkoff
-3,female,29,7.925,S,Manta Josefina,Nieminen
-1,male,28,27.7208,C,Servando,Ovies y Rodriguez
-1,female,35,211.5,C,Amalie,Geiger
-1,male,32,211.5,C,Edwin,Keeping
-3,male,27,8.05,S,Frank,Miles
-1,female,55,25.7,S,Malvina Helen Lamson,Cornell
-2,male,30,13.0,S,Charles Augustus,Aldworth
-3,female,24,7.75,Q,Elizabeth,Doyle
-3,male,6,15.2458,C,Akar,Boulos
-1,male,67,221.7792,S,Isidor,Straus
-1,male,49,26.0,S,Howard Brown,Case
-3,male,27,7.8958,S,Marinko,Demetri
-2,male,27,10.7083,Q,John Joseph,Lamb
-3,male,27,14.4542,C,Betros,Khalil
-3,female,27,7.8792,Q,Julia,Barry
-3,female,18,8.05,S,Emily Louisa,Badman
-3,female,27,7.75,Q,Bridget,ODonoghue
-2,male,2,23.0,S,Ralph Lester,Wells
-3,female,22,13.9,S,Anna Elisabeth Judith Andersson,Dyker
-3,male,27,7.775,S,Olaf,Pedersen
-1,female,27,52.0,S,Orian Hays,Davidson
-3,male,27,8.05,S,Robert,Guest
-1,male,25,26.0,C,Jakob,Birnbaum
-3,male,25,7.7958,S,Gunnar Isidor,Tenglin
-1,female,76,78.85,S,Julia Florence Siegel,Cavendish
-3,male,29,7.925,S,Kalle Edvard,Makinen
-3,female,20,7.8542,S,Elin Ester Maria,Braf
-3,male,33,8.05,S,William Henry,Nancarrow
-1,female,43,55.4417,C,Annie May Morris,Stengel
-2,male,27,26.0,S,Leopold,Weisz
-3,male,27,7.75,Q,William,Foley
-3,male,26,7.775,S,Oskar Leander,Johansson Palmquist
-3,female,16,8.5167,C,Thamine Thelma,Thomas
-3,male,28,22.525,S,Johan Martin,Holthen
-3,male,21,7.8208,Q,Daniel,Buckley
-3,male,27,7.75,Q,Edward,Ryan
-3,male,27,8.7125,S,Abi Weller,Willer
-2,male,18,13.0,S,George,Swane
-2,male,41,15.0458,C,Samuel Ward,Stanton
-3,female,27,7.7792,Q,Ellen Natalia,Shine
-1,female,36,31.6792,C,Edith Corse,Evans
-3,female,18,7.2833,Q,Katherine,Buckley
-1,female,63,221.7792,S,Rosalie Ida Blun,Straus
-3,male,18,14.4542,C,Demetrios,Chronopoulos
-3,male,27,6.4375,C,John,Thomas
-3,female,1,16.7,S,Beatrice Irene,Sandstrom
-1,male,36,75.2417,C,Thomson,Beattie
-2,female,29,26.0,S,Sara Elizabeth Lawry,Chapman
-2,female,12,15.75,S,Bertha J,Watt
-3,male,27,7.75,Q,John,Kiernan
-1,female,35,57.75,C,Emma Mock,Schabert
-3,male,28,7.25,S,Alfred John,Carver
-3,male,27,7.75,Q,John,Kennedy
-3,female,17,16.1,S,Laura Alice,Cribb
-3,male,22,7.7958,S,Karl Rudolf,Brobeck
-3,female,27,23.25,Q,Alicia,McCoy
-2,male,42,13.0,S,Solomon,Bowenur
-3,male,24,8.05,S,Marius,Petersen
-3,male,32,8.05,S,Henry John,Spinner
-1,male,53,28.5,C,Archibald IV,Gracie
-3,female,27,25.4667,S,Frances,Lefebre
-3,male,27,6.4375,C,Charles P,Thomas
-3,male,43,7.8958,S,Valtcho,Dintcheff
-3,male,24,7.8542,S,Carl Robert,Carlsson
-3,male,26,7.225,C,Mapriededer,Zakarian
-2,male,26,13.0,S,August,Schmidt
-3,female,23,8.05,S,Jennie,Drapkin
-3,male,40,46.9,S,Charles Frederick,Goodwin
-3,female,10,46.9,S,Jessie Allis,Goodwin
-1,female,33,151.55,S,Sarah,Daniels
-1,male,61,262.375,C,Arthur Larned,Ryerson
-2,male,28,26.0,S,Henry James,Beauchamp
-1,male,42,26.55,S,Mr Edward Lingrey,Lindeberg-Lind
-3,male,31,18.0,S,Julius,Vander Planke
-1,male,27,51.8625,S,Herbert Henry,Hilliard
-3,male,22,8.05,S,Evan,Davies
-1,male,27,26.55,S,John Bertram,Crafton
-2,male,30,26.0,S,William,Lahtinen
-1,female,23,83.1583,C,Olive Potter,Earnshaw
-3,male,27,7.8958,C,Nicola,Matinoff
-3,male,60,,S,Thomas,Storey
-3,female,36,12.1833,S,Hulda Kristina Eugenia Lofqvist,Klasen
-3,male,13,31.3875,S,Filip Oscar,Asplund
-3,male,24,7.55,S,Joseph,Duquemin
-1,female,29,221.7792,S,Ellen,Bird
-3,female,23,7.8542,S,Olga Elida,Lundin
-1,male,42,26.55,S,John James,Borebank
-3,female,26,13.775,S,Edith Nile,Peacock
-3,female,27,7.7333,Q,Julia,Smyth
-3,male,7,15.2458,C,Georges Youssef,Touma
-2,female,26,13.5,S,Marion,Wright
-3,male,27,7.0,S,Ernest,Pearce
-2,male,41,13.0,S,Joseph Maria,Peruschitz
-3,female,26,22.025,S,Luise Heilmann,Kink-Heilmann
-1,male,48,50.4958,C,Emil,Brandeis
-3,male,18,34.375,S,Edward Watson,Ford
-1,female,27,27.7208,C,Eleanor Genevieve Fosdick,Cassebeer
-3,female,22,8.9625,S,Hilda Maria,Hellstrom
-3,male,27,7.55,S,Simon,Lithman
-3,male,27,7.225,C,Ortin,Zakarian
-3,male,23,13.9,S,Adolf Fredrik,Dyker
-3,male,27,7.2292,C,Assad,Torfa
-3,male,40,31.3875,S,Carl Oscar Vilhelm Gustafsson,Asplund
-2,female,15,39.0,S,Edith Eileen,Brown
-2,female,20,36.75,S,Maude,Sincock
-1,male,54,55.4417,C,Charles Emil Henry,Stengel
-2,female,36,39.0,S,Nellie E Baumgardner,Becker
-1,female,64,83.1583,C,Mary Eliza Ingersoll,Compton
-2,male,30,13.0,S,James Matthew,McCrie
-1,male,37,83.1583,C,Alexander Taylor Jr,Compton
-1,female,18,53.1,S,Mary Graham Carmichael Farquarson,Marvin
-3,male,27,7.75,Q,Patrick,Lane
-1,female,27,247.5208,C,Mary Helene Baxter,Douglas
-2,male,40,16.0,S,Frank Hubert,Maybery
-2,female,21,21.0,S,Alice Frances Louisa,Phillips
-3,male,17,8.05,S,Joseph,Davies
-3,female,27,69.55,S,Ada,Sage
-2,male,40,13.0,S,James,Veal
-2,male,34,26.0,S,William A,Angle
-1,male,27,26.0,S,Abraham L,Salomon
-3,male,12,14.5,S,Walter John,van Billiard
-2,male,61,12.35,Q,John,Lingane
-2,male,8,32.5,S,Marshall Brines,Drew
-3,male,33,7.8542,S,Julius Konrad Eugen,Karlsson
-1,male,6,134.5,C,Robert Douglas,Spedden
-3,female,18,7.775,S,Berta Olivia,Nilsson
-2,male,23,10.5,S,Charles Robert,Baimbrigge
-3,female,27,8.1125,S,Lena Jacobsen Solvang,Rasmussen
-3,female,27,15.5,Q,Nora,Murphy
-3,male,0,14.4,S,Gilbert Sigvard Emanuel,Danbom
-1,male,47,227.525,C,John Jacob,Astor
-2,female,8,26.0,S,Winifred Vera,Quick
-2,male,25,10.5,S,Frank Thomas,Andrew
-1,male,27,25.7417,C,Alfred Fernand,Omont
-3,female,35,7.75,Q,Katherine,McGowan
-2,male,24,10.5,S,Sidney C Stuart,Collett
-1,female,33,27.7208,C,Edith Louise,Rosenbaum
-3,male,25,7.8958,S,Redjo,Delalic
-3,male,32,22.525,S,Albert Karvin,Andersen
-3,male,27,7.05,S,Luigi,Finoli
-2,male,17,73.5,S,Percy William,Deacon
-2,female,60,26.0,S,Ellen Truelove Arman,Howard
-3,female,38,7.775,S,Ida Augusta Margareta,Andersson
-1,male,42,42.5,S,Christopher,Head
-3,female,27,7.8792,Q,Bridget Delia,Mahon
-1,male,57,164.8667,S,George Dennick,Wick
-1,female,50,211.5,C,Eleanor Elkins,Widener
-3,male,27,8.05,S,Alexander Morrison,Thomson
-2,female,30,13.8583,C,Florentina,Duran y More
-3,male,21,8.05,S,Harold J,Reynolds
-2,female,22,10.5,S,Selena Rogers,Cook
-3,male,21,7.7958,S,Einar Gervasius,Karlsson
-1,female,53,27.4458,C,Helen Churchill Hungerford,Candee
-3,female,27,15.2458,C,Omine Amenia Alexander,Moubarek
-3,male,23,7.7958,S,Johan Charles,Asplund
-3,female,27,7.75,Q,Bridget,McNeill
-3,male,40,15.1,S,Thomas James,Everett
-2,male,36,13.0,S,Samuel James Metcalfe,Hocking
-2,male,14,65.0,S,George Frederick,Sweet
-1,female,21,26.55,S,Constance,Willard
-3,male,21,6.4958,S,Karl Johan,Wiklund
-3,male,27,7.8792,Q,Michael,Linehan
-1,male,39,71.2833,C,John Bradley,Cumings
-3,male,20,7.8542,S,Olof Edvin,Vendel
-1,male,64,75.25,C,Frank Manley,Warren
-3,male,20,7.225,C,Raffull,Baccos
-2,female,18,13.0,S,Marta,Hiltunen
-1,female,48,106.425,C,Mahala Dutton,Douglas
-1,female,55,27.7208,C,Sigrid Posse,Lindstrom
-2,female,45,30.0,S,Alice Frances,Christy
-1,male,45,134.5,C,Frederic Oakley,Spedden
-3,male,27,7.8875,S,Abraham,Hyman
-3,male,27,23.45,S,William Arthur Willie,Johnston
-1,male,41,51.8625,S,Frederick R,Kenyon
-2,female,22,21.0,S,Claire Bennett,Karnes
-2,male,42,32.5,S,James Vivian,Drew
-2,female,29,26.0,S,Annie Margaret Hill,Hold
-3,female,27,14.4542,C,Zahie Maria Elias,Khalil
-2,female,1,27.75,S,Barbara J,West
-3,male,20,7.925,S,Abraham August Johannes,Abrahamsson
-1,male,27,136.7792,C,Walter Miller,Clark
-3,male,24,9.325,S,Karl Johan,Salander
-3,male,32,9.5,S,Linhart,Wenzel
-3,male,27,7.55,S,George William,MacKay
-3,male,27,7.75,Q,John,Mahon
-3,male,28,8.05,S,Samuel,Niklasson
-2,female,19,13.0,S,Lilian W,Bentham
-3,male,21,7.775,S,Karl Albert,Midtsjo
-3,male,36,17.4,S,Guillaume Joseph,de Messemaeker
-3,male,21,7.8542,S,August Ferdinand,Nilsson
-2,female,29,23.0,S,Addie Dart Trevaskis,Wells
-3,female,1,12.1833,S,Gertrud Emilia,Klasen
-2,male,30,12.7375,C,Emilio Ilario Giuseppe,Portaluppi
-3,male,27,7.8958,S,Stanko,Lyntakoff
-1,male,27,0.0,S,Roderick Robert Crispin,Chisholm
-3,male,27,7.55,S,Charles William,Warren
-3,female,27,8.05,S,May Elizabeth,Howard
-3,male,17,8.6625,S,Mate,Pokrnic
-1,male,46,75.2417,C,Thomas Francis,McCaffry
-3,male,27,7.75,Q,Patrick,Fox
-1,female,26,136.7792,C,Virginia McDowell,Clark
-3,female,27,15.5,Q,Mary,Lennon
-3,male,27,7.225,C,Jean Nassr,Saade
-2,female,20,26.0,S,Dagmar Jenny Ingeborg,Bryhl
-2,male,28,10.5,S,Clifford Richard,Parker
-2,male,40,26.0,S,Harry,Faunthorpe
-2,male,30,21.0,S,John James,Ware
-2,male,22,10.5,S,Percy Thomas,Oxenham
-3,female,23,8.6625,S,Jelka,Oreskovic
-3,male,1,13.775,S,Alfred Edward,Peacock
-3,female,27,7.75,Q,Honora,Fleming
-3,female,9,15.2458,C,Maria Youssef,Touma
-3,female,2,20.2125,S,Salli Helena,Rosblom
-3,male,36,7.25,S,William,Dennis
-3,male,27,7.25,S,Charles Fardon,Franklin
-1,male,24,82.2667,S,John Pillsbury,Snyder
-3,male,27,7.2292,C,Sarkis,Mardirosian
-3,male,27,8.05,S,Arthur,Ford
-1,male,27,39.6,S,George Alexander Lucien,Rheims
-3,female,30,6.95,Q,Margaret Marcella Maggie,Daly
-3,male,27,7.2292,C,Mustafa,Nasr
-1,male,53,81.8583,S,Washington,Dodge
-3,male,36,9.5,S,Camille,Wittevrongel
-3,male,26,7.8958,S,Minko,Angheloff
-2,female,1,41.5792,C,Louise,Laroche
-3,male,27,21.6792,C,Hanna,Samaan
-1,male,30,45.5,S,Joseph Holland,Loring
-3,male,29,7.8542,S,Nils,Johansson
-3,male,32,7.775,S,Oscar Wilhelm,Olsson
-2,male,27,15.0458,C,Noel,Malachard
-2,male,43,21.0,S,Escott Robert,Phillips
-3,male,24,8.6625,S,Tome,Pokrnic
-3,female,27,7.75,Q,Catherine Katie,McCarthy
-1,female,64,26.55,S,Catherine Elizabeth Halstead,Crosby
-1,male,30,151.55,S,Hudson Joshua Creighton,Allison
-3,male,1,9.35,S,Philip Frank,Aks
-1,male,55,93.5,S,Charles Melville,Hays
-3,female,45,14.1083,S,Jennie L Howard,Hansen
-3,male,18,8.6625,S,Jego Grga,Cacic
-3,male,22,7.225,C,David,Vartanian
-3,male,27,7.575,S,Harry,Sadowitz
-3,female,37,7.75,Q,Jeannie,Carr
-1,female,55,135.6333,C,Ella Holmes,White
-3,female,17,7.7333,Q,Kate,Hagardon
-1,male,57,146.5208,C,William Augustus,Spencer
-2,male,19,10.5,S,Reginald Harry,Rogers
-3,male,27,7.8542,S,Nils Hilding,Jonsson
-2,male,22,31.5,S,Ernest Wilfred,Jefferys
-3,male,26,7.775,S,Johan Samuel,Andersson
-3,male,25,7.2292,C,Neshan,Krekorian
-2,male,26,13.0,S,Israel,Nesson
-1,male,33,26.55,S,Alfred G,Rowe
-1,female,39,211.3375,S,Emilie,Kreuchen
-3,male,23,7.05,S,Ali,Assam
-2,female,12,39.0,S,Ruth Elizabeth,Becker
-1,male,46,79.2,C,Mr George Thorne,Rosenshine
-2,male,29,26.0,S,Charles Valentine,Clarke
-2,male,21,13.0,S,Ingvar,Enander
-2,female,48,36.75,S,Elizabeth Agnes Mary White,Davies
-1,male,39,29.7,C,William Crothers,Dulles
-3,male,27,7.225,C,Tannous,Thomas
-3,female,19,15.7417,C,Waika Mary Mowad,Nakid
-3,male,27,7.8958,S,Ivan,Cor
-1,male,30,26.0,S,John Edward,Maguire
-2,male,32,13.0,S,Jose Joaquim,de Brito
-3,male,39,7.2292,C,Joseph,Elias
-2,male,25,31.5,S,Herbert,Denbury
-3,male,27,7.2292,C,Seman,Betros
-2,male,18,10.5,S,Joseph Charles,Fillbrook
-3,male,32,7.5792,S,Thure Edvin,Lundstrom
-3,male,27,69.55,S,John George,Sage
-1,female,58,512.3292,C,Charlotte Wardle Drake,Cardeza
-3,male,27,14.5,S,James William,van Billiard
-3,female,16,7.65,S,Karen Marie,Abelseth
-2,male,26,13.0,S,William Hull,Botsford
-3,female,38,7.2292,C,Shawneene Abi-Saab,Whabee
-2,male,24,13.5,S,Ralph,Giles
-2,female,31,21.0,S,Nellie,Walcroft
-1,female,45,63.3583,C,Blanche Strouse,Greenfield
-2,male,25,10.5,S,Philip Joseph,Stokes
-2,male,18,73.5,S,William,Dibden
-2,male,49,65.0,S,Samuel,Herman
-3,female,0,20.575,S,Elizabeth Gladys Millvina,Dean
-1,male,50,26.0,S,Henry Forbes,Julian
-1,female,59,51.4792,S,Caroline Lane Lamson,Brown
-3,male,27,7.8792,S,Edward,Lockyer
-3,male,27,7.75,Q,Patrick,OKeefe
-3,female,30,15.55,S,Elin Gerda Persson,Lindell
-3,male,14,69.55,S,William Henry,Sage
-2,female,24,37.0042,C,Antoinette Magnin,Mallet
-2,female,31,21.0,S,Florence Louise Long,Ware
-3,male,27,8.6625,S,Ivan,Strilic
-1,female,25,55.4417,C,Dorothy Annan,Harder
-3,female,27,69.55,S,Annie Bullen,Sage
-3,male,27,14.4583,C,Joseph,Caram
-3,female,22,39.6875,S,Susanna Juhantytar Sanni,Riihivouri
-1,female,45,59.4,C,Pauline C Boeson,Gibson
-2,male,29,13.8583,C,Emilio,Pallas y Castello
-2,male,21,11.5,S,Edgar,Giles
-1,female,31,134.5,C,Helen Alice,Wilson
-1,male,49,0.0,S,Joseph Bruce,Ismay
-2,male,44,13.0,S,William H,Harbeck
-1,female,54,81.8583,S,Ruth Vidaver,Dodge
-1,female,45,262.375,C,Grace Scott,Bowen
-3,female,22,8.6625,S,Maria,Kink
-2,male,21,11.5,S,Henry Harry,Cotterill
-1,male,55,50.0,S,William Edward,Hipkins
-3,male,5,31.3875,S,Carl Edgar,Asplund
-3,male,27,7.75,Q,Patrick,OConnor
-3,male,26,7.8792,Q,Joseph,Foley
-3,female,27,14.5,S,Emma,Risien
-3,female,19,16.1,S,Eileen OLeary,McNamee
-2,male,27,12.875,S,Edwin Frederick,Wheeler
-2,female,24,65.0,S,Kate,Herman
-3,male,24,7.775,S,Ernst Axel Algot,Aronsson
-2,male,57,13.0,S,John,Ashby
-3,male,21,7.75,Q,Patrick,Canavan
-3,male,6,21.075,S,Paul Folke,Palsson
-1,male,23,93.5,S,Vivian Ponsonby,Payne
-1,female,51,39.4,S,Elizabeth Lindsey James,Lines
-3,male,13,20.25,S,Eugene Joseph,Abbott
-2,male,47,10.5,S,William,Gilbert
-3,male,29,22.025,S,Anton,Kink-Heilmann
-1,female,18,60.0,S,Mary Eloise Hughes,Smith
-3,male,24,7.25,Q,Patrick,Colbert
-1,female,48,79.2,C,Margaretha Emerentia Stehli,Frolicher-Stehli
-3,male,22,7.775,S,Edvard A,Larsson-Rondberg
-3,male,31,7.7333,Q,Thomas Henry,Conlon
-1,female,30,164.8667,S,Caroline,Bonnell
-2,male,38,21.0,S,Harry,Gale
-1,female,22,59.4,C,Dorothy Winifred,Gibson
-1,male,17,47.1,S,Jose Pedro,Carrau
-1,male,43,27.7208,C,Isaac Gerald,Frauenthal
-2,male,20,13.8625,C,Baron von Drachstedt,Nourney
-2,male,23,10.5,S,William Jeffery,Ware
-1,male,50,211.5,C,George Dunton,Widener
-3,female,27,7.7208,Q,Johanna Hannah,Riordan
-3,female,3,13.775,S,Treasteall,Peacock
-3,female,27,7.75,Q,Hannah,Naughton
-1,female,37,90.0,Q,Lillian E Thorpe,Minahan
-3,female,28,7.775,S,Jenny Lovisa,Henriksson
-3,male,27,8.05,S,Woolf,Spector
-1,female,39,108.9,C,Fermina,Oliva y Ocana
-3,male,38,7.25,S,Simon Sivertsen,Saether
-3,male,27,8.05,S,Frederick,Ware
-3,male,27,22.3583,C,Michael J,Peter
+Survived,Pclass,Sex,Age,Fare,Embarked,FirstName,LastName
+no,3,male,22,7.25,S,Owen Harris,Braund
+si,1,female,38,71.2833,C,Florence Briggs Thayer,Cumings
+si,3,female,26,7.925,S,Laina,Heikkinen
+si,1,female,35,53.1,S,Lily May Peel,Futrelle
+no,3,male,35,8.05,S,William Henry,Allen
+no,3,male,28,8.4583,Q,James,Moran
+no,1,male,54,51.8625,S,Timothy J,McCarthy
+no,3,male,2,21.075,S,Gosta Leonard,Palsson
+si,3,female,27,11.1333,S,Elisabeth Vilhelmina Berg,Johnson
+si,2,female,14,30.0708,C,Adele Achem,Nasser
+si,3,female,4,16.7,S,Marguerite Rut,Sandstrom
+si,1,female,58,26.55,S,Elizabeth,Bonnell
+no,3,male,20,8.05,S,William Henry,Saundercock
+no,3,male,39,31.275,S,Anders Johan,Andersson
+no,3,female,14,7.8542,S,Hulda Amanda Adolfina,Vestrom
+si,2,female,55,16.0,S,Mary D Kingcome,Hewlett
+no,3,male,2,29.125,Q,Eugene,Rice
+si,2,male,28,13.0,S,Charles Eugene,Williams
+no,3,female,31,18.0,S,Emelia Maria Vandemoortele,Vander Planke
+si,3,female,28,7.225,C,Fatima,Masselmani
+no,2,male,35,26.0,S,Joseph J,Fynney
+si,2,male,34,13.0,S,Lawrence,Beesley
+si,3,female,15,8.0292,Q,Anna Annie,McGowan
+si,1,male,28,35.5,S,William Thompson,Sloper
+no,3,female,8,21.075,S,Torborg Danira,Palsson
+si,3,female,38,31.3875,S,Selma Augusta Emilia Johansson,Asplund
+no,3,male,28,7.225,C,Farred Chehab,Emir
+no,1,male,19,263.0,S,Charles Alexander,Fortune
+si,3,female,28,7.8792,Q,Ellen Nellie,ODwyer
+no,3,male,28,7.8958,S,Lalio,Todoroff
+no,1,male,40,27.7208,C,Manuel E,Uruchurtu
+si,1,female,28,146.5208,C,Marie Eugenie,Spencer
+si,3,female,28,7.75,Q,Mary Agatha,Glynn
+no,2,male,66,10.5,S,Edward H,Wheadon
+no,1,male,28,82.1708,C,Edgar Joseph,Meyer
+no,1,male,42,52.0,S,Alexander Oskar,Holverson
+si,3,male,28,7.2292,C,Hanna,Mamee
+no,3,male,21,8.05,S,Ernest Charles,Cann
+no,3,female,18,18.0,S,Augusta Maria,Vander Planke
+si,3,female,14,11.2417,C,Jamila,Nicola-Yarred
+no,3,female,40,9.475,S,Johanna Persdotter Larsson,Ahlin
+no,2,female,27,21.0,S,Dorothy Ann Wonnacott,Turpin
+no,3,male,28,7.8958,C,Theodor,Kraeff
+si,2,female,3,41.5792,C,Simonne Marie Anne Andree,Laroche
+si,3,female,19,7.8792,Q,Margaret Delia,Devaney
+no,3,male,28,8.05,S,William John,Rogers
+no,3,male,28,15.5,Q,Denis,Lennon
+si,3,female,28,7.75,Q,Bridget,ODriscoll
+no,3,male,28,21.6792,C,Youssef,Samaan
+no,3,female,18,17.8,S,Josefine Franchi,Arnold-Franchi
+no,3,male,7,39.6875,S,Juha Niilo,Panula
+no,3,male,21,7.8,S,Richard Cater,Nosworthy
+si,1,female,49,76.7292,C,Myna Haxtun,Harper
+si,2,female,29,26.0,S,Elizabeth Anne Wilkinson,Faunthorpe
+no,1,male,65,61.9792,C,Engelhart Cornelius,Ostby
+si,1,male,28,35.5,S,Hugh,Woolner
+si,2,female,21,10.5,S,Emily,Rugg
+no,3,male,28,7.2292,C,Mansouer,Novel
+si,2,female,5,27.75,S,Constance Mirium,West
+no,3,male,11,46.9,S,William Frederick,Goodwin
+no,3,male,22,7.2292,C,Orsen,Sirayanian
+si,1,female,38,80.0,,Amelie,Icard
+no,1,male,45,83.475,S,Henry Birkhardt,Harris
+no,3,male,4,27.9,S,Harald,Skoog
+no,1,male,28,27.7208,C,Albert A,Stewart
+si,3,male,28,15.2458,C,Gerios,Moubarek
+si,2,female,29,10.5,S,Elizabeth Ramell,Nye
+no,3,male,19,8.1583,S,Ernest James,Crease
+si,3,female,17,7.925,S,Erna Alexandra,Andersson
+no,3,male,26,8.6625,S,Vincenz,Kink
+no,2,male,32,10.5,S,Stephen Curnow,Jenkin
+no,3,female,16,46.9,S,Lillian Amy,Goodwin
+no,2,male,21,73.5,S,Ambrose Jr,Hood
+no,3,male,26,14.4542,C,Apostolos,Chronopoulos
+si,3,male,32,56.4958,S,Lee,Bing
+no,3,male,25,7.65,S,Sigurd Hansen,Moen
+no,3,male,28,7.8958,S,Ivan,Staneff
+no,3,male,28,8.05,S,Rahamin Haim,Moutal
+si,2,male,1,29.0,S,Alden Gates,Caldwell
+si,3,female,30,12.475,S,Elizabeth,Dowdell
+no,3,male,22,9.0,S,Achille,Waelens
+si,3,male,29,9.5,S,Jan Baptist,Sheerlinck
+si,3,female,28,7.7875,Q,Brigdet Delia,McDermott
+no,1,male,28,47.1,S,Francisco M,Carrau
+si,2,female,17,10.5,S,Bertha,Ilett
+si,3,female,33,15.85,S,Maria Mathilda Gustafsson,Backstrom
+no,3,male,16,34.375,S,William Neal,Ford
+no,3,male,28,8.05,S,Selman Francis,Slocovski
+si,1,female,23,263.0,S,Mabel Helen,Fortune
+no,3,male,24,8.05,S,Francesco,Celotti
+no,3,male,29,8.05,S,Emil,Christmann
+no,3,male,20,7.8542,S,Paul Edvin,Andreasson
+no,1,male,46,61.175,S,Herbert Fuller,Chaffee
+no,3,male,26,20.575,S,Bertram Frank,Dean
+no,3,male,59,7.25,S,Daniel,Coxon
+no,3,male,28,8.05,S,Charles Joseph,Shorney
+no,1,male,71,34.6542,C,George B,Goldschmidt
+si,1,male,23,63.3583,C,William Bertram,Greenfield
+si,2,female,34,23.0,S,Ada Julia Bone,Doling
+no,2,male,34,26.0,S,Sinai,Kantor
+no,3,female,28,7.8958,S,Matilda,Petranec
+no,3,male,28,7.8958,S,Pentcho,Petroff
+no,1,male,21,77.2875,S,Richard Frasar,White
+no,3,male,33,8.6542,S,Gustaf Joel,Johansson
+no,3,male,37,7.925,S,Anders Vilhelm,Gustafsson
+no,3,male,28,7.8958,S,Stoytcho,Mionoff
+si,3,female,21,7.65,S,Anna Kristine,Salkjelsvik
+si,3,male,28,7.775,S,Albert Johan,Moss
+no,3,male,38,7.8958,S,Tido,Rekic
+si,3,female,28,24.15,Q,Bertha,Moran
+no,1,male,47,52.0,S,Walter Chamberlain,Porter
+no,3,female,14,14.4542,C,Hileni,Zabour
+no,3,male,22,8.05,S,David John,Barton
+no,3,female,20,9.825,S,Katriina,Jussila
+no,3,female,17,14.4583,C,Malake,Attalah
+no,3,male,21,7.925,S,Edvard,Pekoniemi
+no,3,male,70,7.75,Q,Patrick,Connors
+no,2,male,29,21.0,S,William John Robert,Turpin
+no,1,male,24,247.5208,C,Quigg Edmond,Baxter
+no,3,female,2,31.275,S,Ellis Anna Maria,Andersson
+no,2,male,21,73.5,S,Stanley George,Hickman
+no,3,male,28,8.05,S,Leonard Charles,Moore
+no,2,male,32,30.0708,C,Nicholas,Nasser
+si,2,female,32,13.0,S,Susan,Webber
+no,1,male,54,77.2875,S,Percival Wayland,White
+si,3,male,12,11.2417,C,Elias,Nicola-Yarred
+no,3,male,28,7.75,Q,Martin,McMahon
+si,3,male,24,7.1417,S,Fridtjof Arne,Madsen
+si,3,female,28,22.3583,C,Anna,Peter
+no,3,male,45,6.975,S,Johan,Ekstrom
+no,3,male,33,7.8958,C,Jozef,Drazenoic
+no,3,male,20,7.05,S,Domingos Fernandeo,Coelho
+no,3,female,47,14.5,S,Grace Charity Laury,Robins
+si,2,female,29,26.0,S,Mathilde Francoise Pede,Weisz
+no,2,male,25,13.0,S,Samuel James Hayden,Sobey
+no,2,male,23,15.0458,C,Emile,Richard
+si,1,female,19,26.2833,S,Helen Monypeny,Newsom
+no,1,male,37,53.1,S,Jacques Heath,Futrelle
+no,3,male,16,9.2167,S,Olaf Elon,Osen
+no,1,male,24,79.2,C,Victor,Giglio
+no,3,female,28,15.2458,C,Sultana,Boulos
+si,3,female,22,7.75,S,Anna Sofia,Nysten
+si,3,female,24,15.85,S,Elin Matilda Dolck,Hakkarainen
+no,3,male,19,6.75,Q,Jeremiah,Burke
+no,2,male,18,11.5,S,Edgardo Samuel,Andrew
+no,2,male,19,36.75,S,Joseph Charles,Nicholls
+si,3,male,27,7.7958,S,Wennerstrom,Andersson
+no,3,female,9,34.375,S,Robina Maggie Ruby,Ford
+no,2,male,36,26.0,S,Louis M Hoffman,Navratil
+no,2,male,42,13.0,S,Thomas Roussel Davids,Byles
+no,2,male,51,12.525,S,Robert James,Bateman
+si,1,female,22,66.6,S,Edith Wearne,Pears
+no,3,male,56,8.05,S,Alfonzo,Meo
+no,3,male,40,14.5,S,Austin Blyler,van Billiard
+no,3,male,28,7.3125,S,Ole Martin,Olsen
+no,1,male,51,61.3792,C,Charles Duane,Williams
+si,3,female,16,7.7333,Q,Katherine Katie,Gilnagh
+no,3,male,30,8.05,S,Harry,Corn
+no,3,male,28,8.6625,S,Mile,Smiljanic
+no,3,male,28,69.55,S,Thomas Henry,Sage
+no,3,male,44,16.1,S,John Hatfield,Cribb
+si,2,female,40,15.75,S,Elizabeth Bessie Inglis Milne,Watt
+no,3,male,26,7.775,S,John Viktor,Bengtsson
+no,3,male,17,8.6625,S,Jovo,Calic
+no,3,male,1,39.6875,S,Eino Viljami,Panula
+si,3,male,9,20.525,S,Frank John William Frankie,Goldsmith
+si,1,female,28,55.0,S,Edith Martha Bowerman,Chibnall
+no,3,female,45,27.9,S,Anna Bernhardina Karlsson,Skoog
+no,1,male,28,25.925,S,John D,Baumann
+no,3,male,28,56.4958,S,Lee,Ling
+no,1,male,61,33.5,S,Wyckoff,Van der hoef
+no,3,male,4,29.125,Q,Arthur,Rice
+si,3,female,1,11.1333,S,Eleanor Ileen,Johnson
+no,3,male,21,7.925,S,Antti Wilhelm,Sivola
+no,1,male,56,30.6958,C,James Clinch,Smith
+no,3,male,18,7.8542,S,Klas Albin,Klasen
+no,3,male,28,25.4667,S,Henry Forbes,Lefebre
+no,1,female,50,28.7125,C,Ann Elizabeth,Isham
+no,2,male,30,13.0,S,Reginald,Hale
+no,3,male,36,0.0,S,Lionel,Leonard
+no,3,female,28,69.55,S,Constance Gladys,Sage
+no,2,male,28,15.05,C,Rene,Pernot
+no,3,male,9,31.3875,S,Clarence Gustaf Hugo,Asplund
+si,2,male,1,39.0,S,Richard F,Becker
+si,3,female,4,22.025,S,Luise Gretchen,Kink-Heilmann
+no,1,male,28,50.0,S,Hugh Roscoe,Rood
+si,3,female,28,15.5,Q,Johanna Hannah Godfrey,OBrien
+si,1,male,45,26.55,S,Mr C Rolmane,Romaine
+no,3,male,40,15.5,Q,John,Bourke
+no,3,male,36,7.8958,S,Stjepan,Turcin
+si,2,female,32,13.0,S,Rosa,Pinsky
+no,2,male,19,13.0,S,William,Carbines
+si,3,female,19,7.8542,S,Carla Christine Nielsine,Andersen-Jensen
+si,2,male,3,26.0,S,Michel M,Navratil
+si,1,female,44,27.7208,C,Margaret Tobin,Brown
+si,1,female,58,146.5208,C,Elise,Lurette
+no,3,male,28,7.75,Q,Robert,Mernagh
+no,3,male,42,8.4042,S,Karl Siegwart Andreas,Olsen
+si,3,female,28,7.75,Q,Margaret Maggie,Madigan
+no,2,female,24,13.0,S,Mrs Harbeck,Yrois
+no,3,male,28,9.5,S,Nestor Cyriel,Vande Walle
+no,3,male,28,69.55,S,Frederick,Sage
+no,3,male,34,6.4958,S,Jakob Alfred,Johanson
+no,3,male,46,7.225,C,Gerious,Youseff
+si,3,male,18,8.05,S,Gurshon Gus,Cohen
+no,3,female,2,10.4625,S,Telma Matilda,Strom
+no,3,male,32,15.85,S,Karl Alfred,Backstrom
+si,3,male,26,18.7875,C,Nassef Cassem,Albimona
+si,3,female,16,7.75,Q,Helen Ellen,Carr
+si,1,male,40,31.0,C,Henry,Blank
+no,3,male,24,7.05,S,Ahmed,Ali
+si,2,female,35,21.0,S,Clear Annie,Cameron
+no,3,male,22,7.25,S,John Henry,Perkin
+no,2,male,30,13.0,S,Hans Kristensen,Givard
+no,3,male,28,7.75,Q,Philip,Kiernan
+si,1,female,31,113.275,C,Madeleine,Newell
+si,3,female,27,7.925,S,Eliina,Honkanen
+no,2,male,42,27.0,S,Sidney Samuel,Jacobsohn
+si,1,female,32,76.2917,C,Albina,Bazzani
+no,2,male,30,10.5,S,Walter,Harris
+si,3,male,16,8.05,S,Victor Francis,Sunderland
+no,2,male,27,13.0,S,James H,Bracken
+no,3,male,51,8.05,S,George Henry,Green
+no,3,male,28,7.8958,S,Christo,Nenkoff
+si,1,male,38,90.0,S,Frederick Maxfield,Hoyt
+no,3,male,22,9.35,S,Karl Ivar Sven,Berglund
+si,2,male,19,10.5,S,William John,Mellors
+no,3,male,20,7.25,S,Henry,Lovell
+no,2,male,18,13.0,S,Arne Jonas,Fahlstrom
+no,3,female,28,25.4667,S,Mathilde,Lefebre
+si,1,female,35,83.475,S,Irene Wallach,Harris
+no,3,male,29,7.775,S,Bengt Edvin,Larsson
+no,2,male,59,13.5,S,Ernst Adolf,Sjostedt
+si,3,female,5,31.3875,S,Lillian Gertrud,Asplund
+no,2,male,24,10.5,S,Robert William Norman,Leyson
+no,3,female,28,7.55,S,Alice Phoebe,Harknett
+no,2,male,44,26.0,S,Stephen,Hold
+si,2,female,8,26.25,S,Marjorie Lottie,Collyer
+no,2,male,19,10.5,S,Frederick William,Pengelly
+no,2,male,33,12.275,S,George Henry,Hunt
+no,3,female,28,14.4542,C,Thamine,Zabour
+si,3,female,28,15.5,Q,Katherine Kate,Murphy
+no,2,male,29,10.5,S,Reginald Charles,Coleridge
+no,3,male,22,7.125,S,Matti Alexanteri,Maenpaa
+no,3,male,30,7.225,C,Sleiman,Attalah
+no,1,male,44,90.0,Q,William Edward,Minahan
+no,3,female,25,7.775,S,Agda Thorilda Viktoria,Lindahl
+si,2,female,24,14.5,S,Anna,Hamalainen
+si,1,male,37,52.5542,S,Richard Leonard,Beckwith
+no,2,male,54,26.0,S,Ernest Courtenay,Carter
+no,3,male,28,7.25,S,James George,Reed
+no,3,female,29,10.4625,S,Elna Matilda Persson,Strom
+no,1,male,62,26.55,S,William Thomas,Stead
+no,3,male,30,16.1,S,William Arthur,Lobb
+no,3,female,41,20.2125,S,Helena Wilhelmina,Rosblom
+si,3,female,29,15.2458,C,Hanne Youssef Razi,Touma
+si,1,female,28,79.2,C,Gertrude Maybelle,Thorne
+si,1,female,30,86.5,S,Gladys,Cherry
+si,1,female,35,512.3292,C,Anna,Ward
+si,2,female,50,26.0,S,Lutie Davis,Parrish
+no,3,male,28,7.75,Q,Thomas,Smith
+si,3,male,3,31.3875,S,Edvin Rojj Felix,Asplund
+no,1,male,52,79.65,S,Emil,Taussig
+no,1,male,40,0.0,S,William,Harrison
+no,3,female,28,7.75,Q,Delia,Henry
+no,2,male,36,10.5,S,David,Reeves
+no,3,male,16,39.6875,S,Ernesti Arvid,Panula
+si,3,male,25,7.775,S,Ernst Ulrik,Persson
+si,1,female,58,153.4625,S,Edith Junkins,Graham
+si,1,female,35,135.6333,S,Amelia,Bissette
+no,1,male,28,31.0,S,Alexander,Cairns
+si,3,male,25,0.0,S,William Henry,Tornquist
+si,2,female,41,19.5,S,Elizabeth Anne Maidment,Mellinger
+no,1,male,37,29.7,C,Charles H,Natsch
+si,3,female,28,7.75,Q,Hanora Nora,Healy
+si,1,female,63,77.9583,S,Kornelia Theodosia,Andrews
+no,3,female,45,7.75,S,Augusta Charlotta,Lindblom
+no,2,male,28,0.0,S,Francis Frank,Parkes
+no,3,male,7,29.125,Q,Eric,Rice
+si,3,female,35,20.25,S,Rosa Hunt,Abbott
+no,3,male,65,7.75,Q,Frank,Duane
+no,3,male,28,7.8542,S,Nils Johan Goransson,Olsson
+no,3,male,16,9.5,S,Alfons,de Pelsmaeker
+si,3,male,19,8.05,S,Edward Arthur,Dorking
+no,1,male,28,26.0,S,Richard William,Smith
+no,3,male,33,8.6625,C,Ivan,Stankovic
+si,3,male,30,9.5,S,Theodore,de Mulder
+no,3,male,22,7.8958,S,Penko,Naidenoff
+si,2,male,42,13.0,S,Masabumi,Hosono
+si,3,female,22,7.75,Q,Kate,Connolly
+si,1,female,26,78.85,S,Ellen Nellie,Barber
+si,1,female,19,91.0792,C,Helen Walton,Bishop
+no,2,male,36,12.875,C,Rene Jacques,Levy
+no,3,female,24,8.85,S,Aloisia,Haas
+no,3,male,24,7.8958,S,Ivan,Mineff
+no,1,male,28,27.7208,C,Ervin G,Lewy
+no,3,male,24,7.2292,C,Mansour,Hanna
+no,1,female,2,151.55,S,Helen Loraine,Allison
+si,1,male,28,30.5,S,Adolphe,Saalfeld
+si,1,female,50,247.5208,C,Helene DeLaudeniere Chaput,Baxter
+si,3,female,28,7.75,Q,Anna Katherine Annie Kate,Kelly
+si,3,male,28,23.25,Q,Bernard,McCoy
+no,3,male,19,0.0,S,William Cahoone Jr,Johnson
+si,2,female,28,12.35,Q,Nora A,Keane
+no,3,male,28,8.05,S,Howard Hugh Harry,Williams
+si,1,male,1,151.55,S,Hudson Trevor,Allison
+si,1,female,28,110.8833,C,Margaret,Fleming
+si,1,female,17,108.9,C,Maria Josefa Perez de Soto y Vallejo,Penasco y Castellana
+no,2,male,30,24.0,C,Samuel,Abelson
+si,1,female,30,56.9292,C,Laura Mabel,Francatelli
+si,1,female,24,83.1583,C,Margaret Bechstein,Hays
+si,1,female,18,262.375,C,Emily Borie,Ryerson
+no,2,female,26,26.0,S,Anna Sylfven,Lahtinen
+no,3,male,28,7.8958,S,Ignjac,Hendekovic
+no,2,male,43,26.25,S,Benjamin,Hart
+si,3,female,26,7.8542,S,Helmina Josefina,Nilsson
+si,2,female,24,26.0,S,Miriam Sternin,Kantor
+no,2,male,54,14.0,S,Ernest,Moraweck
+si,1,female,31,164.8667,S,Mary Natalie,Wick
+si,1,female,40,134.5,C,Margaretta Corning Stone,Spedden
+no,3,male,22,7.25,S,Samuel,Dennis
+no,3,male,27,7.8958,S,Yoto,Danoff
+si,2,female,30,12.35,Q,Hilda Mary,Slayter
+si,2,female,22,29.0,S,Sylvia Mae Harbaugh,Caldwell
+no,3,male,28,69.55,S,George John Jr,Sage
+si,1,female,36,135.6333,C,Marie Grice,Young
+no,3,male,61,6.2375,S,Johan Hansen,Nysveen
+si,2,female,36,13.0,S,Ada E Hall,Ball
+si,3,female,31,20.525,S,Emily Alice Brown,Goldsmith
+si,1,female,16,57.9792,C,Jean Gertrude,Hippach
+si,3,female,28,23.25,Q,Agnes,McCoy
+no,1,male,46,28.5,S,Austen,Partner
+no,1,male,38,153.4625,S,George Edward,Graham
+no,3,male,16,18.0,S,Leo Edmondus,Vander Planke
+si,1,female,28,133.65,S,Clara Heinsheimer,Frauenthal
+no,3,male,28,7.8958,S,Mitto,Denkoff
+no,1,male,29,66.6,S,Thomas Clinton,Pears
+si,1,female,41,134.5,C,Elizabeth Margaret,Burns
+si,3,male,45,8.05,S,Karl Edwart,Dahl
+no,1,male,45,35.5,S,Stephen Weart,Blackwell
+si,2,male,2,26.0,S,Edmond Roger,Navratil
+si,1,female,24,263.0,S,Alice Elizabeth,Fortune
+no,2,male,28,13.0,S,Erik Gustaf,Collander
+no,2,male,25,13.0,S,Charles Frederick Waddington,Sedgwick
+no,2,male,36,13.0,S,Stanley Hubert,Fox
+si,2,female,24,13.0,S,Amelia Mildred,Brown
+si,2,female,40,13.0,S,Marion Elsie,Smith
+si,3,female,28,16.1,S,Mary E Finck,Davison
+si,3,male,3,15.9,S,William Loch William,Coutts
+no,3,male,42,8.6625,S,Jovan,Dimic
+no,3,male,23,9.225,S,Nils Martin,Odahl
+no,1,male,28,35.0,S,Fletcher Fellows,Williams-Lambert
+no,3,male,15,7.2292,C,Tannous,Elias
+no,3,male,25,17.8,S,Josef,Arnold-Franchi
+no,3,male,28,7.225,C,Wazli,Yousif
+no,3,male,28,9.5,S,Leo Peter,Vanden Steen
+si,1,female,22,55.0,S,Elsie Edith,Bowerman
+no,2,female,38,13.0,S,Annie Clemmer,Funk
+si,3,female,28,7.8792,Q,Mary,McGovern
+si,3,female,28,7.8792,Q,Helen Mary Ellie,Mockler
+no,3,male,40,27.9,S,Wilhelm,Skoog
+no,2,male,29,27.7208,C,Sebastiano,del Carlo
+no,3,female,45,14.4542,C,Catherine David,Barbara
+no,3,male,35,7.05,S,Adola,Asim
+no,3,male,28,15.5,Q,Thomas,OBrien
+no,3,male,30,7.25,S,Mauritz Nils Martin,Adahl
+si,1,female,60,75.25,C,Anna Sophia Atkinson,Warren
+si,3,female,28,7.2292,C,Mantoura Boulos,Moussa
+si,3,female,28,7.75,Q,Annie,Jermyn
+si,1,female,24,69.3,C,Leontine Pauline,Aubart
+si,1,male,25,55.4417,C,George Achilles,Harder
+no,3,male,18,6.4958,S,Jakob Alfred,Wiklund
+no,3,male,19,8.05,S,William Thomas,Beavan
+no,1,male,22,135.6333,C,Sante,Ringhini
+no,3,female,3,21.075,S,Stina Viola,Palsson
+si,1,female,28,82.1708,C,Leila Saks,Meyer
+si,3,female,22,7.25,S,Aurora Adelia,Landergren
+no,1,male,27,211.5,C,Harry Elkins,Widener
+no,3,male,20,4.0125,C,Tannous,Betros
+no,3,male,19,7.775,S,Karl Gideon,Gustafsson
+si,1,female,42,227.525,C,Rosalie,Bidois
+si,3,female,1,15.7417,C,Mary,Nakid
+no,3,male,32,7.925,S,Juho,Tikkanen
+si,1,female,35,52.0,S,Mary Aline Towner,Holverson
+no,3,male,28,7.8958,S,Vasil,Plotcharsky
+no,2,male,18,73.5,S,Charles Henry,Davies
+no,3,male,1,46.9,S,Sidney Leonard,Goodwin
+si,2,female,36,13.0,S,Kate,Buss
+no,3,male,28,7.7292,Q,Matthew,Sadlier
+si,2,female,17,12.0,C,Bertha,Lehmann
+si,1,male,36,120.0,S,William Ernest,Carter
+si,3,male,21,7.7958,S,Carl Olof,Jansson
+no,3,male,28,7.925,S,Johan Birger,Gustafsson
+si,1,female,23,113.275,C,Marjorie,Newell
+si,3,female,24,16.7,S,Agnes Charlotta Bengtsson,Sandstrom
+no,3,male,22,7.7958,S,Erik,Johansson
+no,3,female,31,7.8542,S,Elina,Olsson
+no,2,male,46,26.0,S,Peter David,McKane
+no,2,male,23,10.5,S,Alfred,Pain
+si,2,female,28,12.65,S,Jessie L,Trout
+si,3,male,39,7.925,S,Juha,Niskanen
+no,3,male,26,8.05,S,John,Adams
+no,3,female,21,9.825,S,Mari Aina,Jussila
+no,3,male,28,15.85,S,Pekka Pietari,Hakkarainen
+no,3,female,20,8.6625,S,Marija,Oreskovic
+no,2,male,34,21.0,S,Shadrach,Gale
+no,3,male,51,7.75,S,CarlCharles Peter,Widegren
+si,2,male,3,18.75,S,William Rowe,Richards
+no,3,male,21,7.775,S,Hans Martin Monsen,Birkeland
+no,3,female,28,25.4667,S,Ida,Lefebre
+no,3,male,28,7.8958,S,Todor,Sdycoff
+no,3,male,28,6.8583,Q,Henry,Hart
+si,1,female,33,90.0,Q,Daisy E,Minahan
+no,2,male,28,0.0,S,Alfred Fleming,Cunningham
+si,3,male,44,7.925,S,Johan Julian,Sundman
+no,3,female,28,8.05,S,Annie Louise Rowley,Meek
+si,2,female,34,32.5,S,Lulu Thorne Christian,Drew
+si,2,female,18,13.0,S,Lyyli Karoliina,Silven
+no,2,male,30,13.0,S,William John,Matthews
+no,3,female,10,24.15,S,Catharina,Van Impe
+no,3,male,28,7.8958,C,Stanio,Gheorgheff
+no,3,male,21,7.7333,Q,David,Charters
+no,3,male,29,7.875,S,Leo,Zimmerman
+no,3,female,28,14.4,S,Anna Sigrid Maria Brogren,Danbom
+no,3,male,18,20.2125,S,Viktor Richard,Rosblom
+no,3,male,28,7.25,S,Phillippe,Wiseman
+si,2,female,28,26.0,S,Ada Maria Winfield,Clarke
+si,2,female,19,26.0,S,Mrs Kate Louise Phillips Marshall,Phillips
+no,3,male,28,7.75,Q,James,Flynn
+si,3,male,32,8.05,S,Berk Trembisky,Pickard
+si,1,male,28,26.55,S,Mauritz Hakan,Bjornstrom-Steffansson
+si,3,female,28,16.1,S,Florence Kate White,Thorneycroft
+si,2,female,42,26.0,S,Alice Adelaide Slow,Louch
+no,3,male,17,7.125,S,Nikolai Erland,Kallio
+no,1,male,50,55.9,S,William Baird,Silvey
+si,1,female,14,120.0,S,Lucile Polk,Carter
+no,3,female,21,34.375,S,Doolina Margaret Daisy,Ford
+si,2,female,24,18.75,S,Emily Hocking,Richards
+no,1,male,64,263.0,S,Mark,Fortune
+no,2,male,31,10.5,S,Johan Henrik Johannesson,Kvillner
+si,2,female,45,26.25,S,Esther Ada Bloomfield,Hart
+no,3,male,20,9.5,S,Leon,Hampe
+no,3,male,25,7.775,S,Johan Emil,Petterson
+si,2,female,28,13.0,S,Encarnacion,Reynaldo
+si,3,male,28,8.1125,S,Bernt,Johannesen-Bratthammer
+si,1,male,4,81.8583,S,Washington,Dodge
+si,2,female,13,19.5,S,Madeleine Violet,Mellinger
+si,1,male,34,26.55,S,Frederic Kimber,Seward
+si,3,female,5,19.2583,C,Marie Catherine,Baclini
+si,1,male,52,30.5,S,Arthur Godfrey,Peuchen
+no,2,male,36,27.75,S,Edwy Arthur,West
+no,3,male,28,19.9667,S,Ingvald Olai Olsen,Hagland
+no,1,male,30,27.75,C,Benjamin Laventall,Foreman
+si,1,male,49,89.1042,C,Samuel L,Goldenberg
+no,3,male,28,8.05,S,Joseph,Peduzzi
+si,3,male,29,7.8958,C,Ivan,Jalsevac
+no,1,male,65,26.55,S,Francis Davis,Millet
+si,1,female,28,51.8625,S,Marion,Kenyon
+si,2,female,50,10.5,S,Ellen,Toomey
+no,3,male,28,7.75,Q,Maurice,OConnor
+si,1,male,48,26.55,S,Harry,Anderson
+no,3,male,34,8.05,S,William,Morley
+no,1,male,47,38.5,S,Arthur H,Gee
+no,2,male,48,13.0,S,Jacob Christian,Milling
+no,3,male,28,8.05,S,Simon,Maisner
+no,3,male,38,7.05,S,Manuel Estanslas,Goncalves
+no,2,male,28,0.0,S,William,Campbell
+no,1,male,56,26.55,S,John Montgomery,Smart
+no,3,male,28,7.725,Q,James,Scanlan
+si,3,female,1,19.2583,C,Helene Barbara,Baclini
+no,3,male,28,7.25,S,Arthur,Keefe
+no,3,male,38,8.6625,S,Luka,Cacic
+si,2,female,33,27.75,S,Ada Mary Worth,West
+si,2,female,23,13.7917,C,Marie Marthe Thuillard,Jerwan
+no,3,female,22,9.8375,S,Ida Sofia,Strandberg
+no,1,male,28,52.0,S,George Quincy,Clifford
+no,2,male,34,21.0,S,Peter Henry,Renouf
+no,3,male,29,7.0458,S,Lewis Richard,Braund
+no,3,male,22,7.5208,S,Nils August,Karlsson
+si,3,female,2,12.2875,S,Hildur E,Hirvonen
+no,3,male,9,46.9,S,Harold Victor,Goodwin
+no,2,male,28,0.0,S,Anthony Wood Archie,Frost
+no,3,male,50,8.05,S,Richard Henry,Rouse
+si,3,female,63,9.5875,S,Hedwig,Turkula
+si,1,male,25,91.0792,C,Dickinson H,Bishop
+no,3,female,28,25.4667,S,Jeannie,Lefebre
+si,1,female,35,90.0,S,Jane Anne Forby,Hoyt
+no,1,male,58,29.7,C,Edward Austin,Kent
+no,3,male,30,8.05,S,Francis William,Somerton
+si,3,male,9,15.9,S,Eden Leslie Neville,Coutts
+no,3,male,28,19.9667,S,Konrad Mathias Reiersen,Hagland
+no,3,male,21,7.25,S,Einar,Windelov
+no,1,male,55,30.5,S,Harry Markland,Molson
+no,1,male,71,49.5042,C,Ramon,Artagaveytia
+no,3,male,21,8.05,S,Edward Roland,Stanley
+no,3,male,28,14.4583,C,Gerious,Yousseff
+si,1,female,54,78.2667,C,Elizabeth Mussey,Eustis
+no,3,male,28,15.1,S,Frederick William,Shellard
+no,1,female,25,151.55,S,Bessie Waldo Daniels,Allison
+no,3,male,24,7.7958,S,Olof,Svensson
+no,3,male,17,8.6625,S,Petar,Calic
+no,3,female,21,7.75,Q,Mary,Canavan
+no,3,female,28,7.6292,Q,Bridget Mary,OSullivan
+no,3,female,37,9.5875,S,Kristina Sofia,Laitinen
+si,1,female,16,86.5,S,Roberta,Maioni
+no,1,male,18,108.9,C,Victor de Satode,Penasco y Castellana
+si,2,female,33,26.0,S,Jane Richards,Quick
+si,1,male,28,26.55,S,George Arthur Brayton,Bradley
+no,3,male,28,22.525,S,Henry Margido,Olsen
+si,3,male,26,56.4958,S,Fang,Lang
+si,3,male,29,7.75,Q,Eugene Patrick,Daly
+no,3,male,28,8.05,S,James,Webber
+si,1,male,36,26.2875,S,James Robert,McGough
+si,1,female,54,59.4,C,Elizabeth L Barrett,Rothschild
+no,3,male,24,7.4958,S,Satio,Coleff
+no,1,male,47,34.0208,S,William Anderson,Walker
+si,2,female,34,10.5,S,Amelia Milley,Lemore
+no,3,male,28,24.15,Q,Patrick,Ryan
+si,2,female,36,26.0,S,Florence Mary Agnes Hughes,Angle
+no,3,male,32,7.8958,S,Stefo,Pavlovic
+si,1,female,30,93.5,S,Anne,Perreault
+no,3,male,22,7.8958,S,Janko,Vovk
+no,3,male,28,7.225,C,Sarkis,Lahoud
+si,1,female,44,57.9792,C,Ida Sophia Fischer,Hippach
+no,3,male,28,7.2292,C,Fared,Kassem
+no,3,male,40,7.75,Q,James,Farrell
+si,2,female,50,10.5,S,Lucy,Ridsdale
+no,1,male,28,221.7792,S,John,Farthing
+no,3,male,39,7.925,S,Johan Werner,Salonen
+no,2,male,23,11.5,S,Richard George,Hocking
+si,2,female,2,26.0,S,Phyllis May,Quick
+no,3,male,28,7.2292,C,Nakli,Toufik
+no,3,male,17,7.2292,C,Joseph Jr,Elias
+si,3,female,28,22.3583,C,Catherine Rizk,Peter
+no,3,female,30,8.6625,S,Marija,Cacic
+si,2,female,7,26.25,S,Eva Miriam,Hart
+no,1,male,45,26.55,S,Archibald Willingham,Butt
+si,1,female,30,106.425,C,Bertha,LeRoy
+no,3,male,28,14.5,S,Samuel Beard,Risien
+si,1,female,22,49.5,C,Hedwig Margaritha,Frolicher
+si,1,female,36,71.0,S,Harriet R,Crosby
+no,3,female,9,31.275,S,Ingeborg Constanzia,Andersson
+no,3,female,11,31.275,S,Sigrid Elisabeth,Andersson
+si,2,male,32,26.0,S,Edward,Beane
+no,1,male,50,106.425,C,Walter Donald,Douglas
+no,1,male,64,26.0,S,Arthur Ernest,Nicholson
+si,2,female,19,26.0,S,Ethel Clarke,Beane
+si,2,male,28,13.8625,C,Julian,Padro y Manent
+no,3,male,33,20.525,S,Frank John,Goldsmith
+si,2,male,8,36.75,S,John Morgan Jr,Davies
+si,1,male,17,110.8833,C,John Borland Jr,Thayer
+no,2,male,27,26.0,S,Percival James R,Sharp
+no,3,male,28,7.8292,Q,Timothy,OBrien
+si,3,male,22,7.225,C,Philip Zenni,Leeni
+si,3,female,22,7.775,S,Velin,Ohman
+no,1,male,62,26.55,S,George,Wright
+si,1,female,48,39.6,C,Lucille Christiana Sutherland,Duff Gordon
+no,1,male,28,227.525,C,Victor,Robbins
+si,1,female,39,79.65,S,Tillie Mandelbaum,Taussig
+si,3,female,36,17.4,S,Emma,de Messemaeker
+no,3,male,28,7.75,Q,Thomas Rowan,Morrow
+no,3,male,40,7.8958,S,Husein,Sivic
+no,2,male,28,13.5,S,Robert Douglas,Norman
+no,3,male,28,8.05,S,John,Simmons
+no,3,female,28,8.05,S,Marion Ogden,Meanwell
+no,3,male,24,24.15,S,Alfred J,Davies
+no,3,male,19,7.8958,S,Ilia,Stoytcheff
+no,3,female,29,21.075,S,Alma Cornelia Berglund,Palsson
+no,3,male,28,7.2292,C,Tannous,Doharr
+si,3,male,32,7.8542,S,Carl,Jonsson
+si,2,male,62,10.5,S,George,Harris
+si,1,female,53,51.4792,S,Charlotte Lamson,Appleton
+si,1,male,36,26.3875,S,Irving,Flynn
+si,3,female,28,7.75,Q,Mary,Kelly
+no,3,male,16,8.05,S,Alfred George John,Rush
+no,3,male,19,14.5,S,George,Patchett
+si,2,female,34,13.0,S,Ethel,Garside
+si,1,female,39,55.9,S,Alice Munger,Silvey
+no,3,female,28,14.4583,C,Maria Elias,Caram
+si,3,male,32,7.925,S,Eiriik,Jussila
+si,2,female,25,30.0,S,Julie Rachel,Christy
+si,1,female,39,110.8833,C,Marian Longstreth Morris,Thayer
+no,2,male,54,26.0,S,William James,Downton
+no,1,male,36,40.125,C,John Hugo,Ross
+no,3,male,28,8.7125,C,Uscher,Paulner
+si,1,female,18,79.65,S,Ruth,Taussig
+no,2,male,47,15.0,S,John Denzil,Jarvis
+si,1,male,60,79.2,C,Maxmillian,Frolicher-Stehli
+no,3,male,22,8.05,S,Eliezer,Gilinski
+no,3,male,28,8.05,S,Joseph,Murdlin
+no,3,male,35,7.125,S,Matti,Rintamaki
+si,1,female,52,78.2667,C,Martha Eustis,Stephenson
+no,3,male,47,7.25,S,William James,Elsbury
+no,3,female,28,7.75,Q,Mary,Bourke
+no,2,male,37,26.0,S,John Henry,Chapman
+no,3,male,36,24.15,S,Jean Baptiste,Van Impe
+si,2,female,28,33.0,S,Jessie Wills,Leitch
+no,3,male,49,0.0,S,Alfred,Johnson
+no,3,male,28,7.225,C,Hanna,Boulos
+si,1,male,49,56.9292,C,Mr Morgan,Duff Gordon
+si,2,female,24,27.0,S,Amy Frances Christy,Jacobsohn
+no,3,male,28,7.8958,S,Petco,Slabenoff
+no,1,male,28,42.4,S,Charles H,Harrington
+no,3,male,44,8.05,S,Ernst William,Torber
+si,1,male,35,26.55,C,Mr E Haven,Homer
+no,3,male,36,15.55,S,Edvard Bengtsson,Lindell
+no,3,male,30,7.8958,S,Milan,Karaic
+si,1,male,27,30.5,S,Robert Williams,Daniel
+si,2,female,22,41.5792,C,Juliette Marie Louise Lafargue,Laroche
+si,1,female,40,153.4625,S,Elizabeth W,Shutes
+no,3,female,39,31.275,S,Alfrida Konstantia Brogren,Andersson
+no,3,male,28,7.05,S,Jose Neto,Jardin
+si,3,female,28,15.5,Q,Margaret Jane,Murphy
+no,3,male,28,7.75,Q,John,Horgan
+no,3,male,35,8.05,S,William Alfred,Brocklebank
+si,2,female,24,65.0,S,Alice,Herman
+no,3,male,34,14.4,S,Ernst Gilbert,Danbom
+no,3,female,26,16.1,S,Cordelia K Stanlick,Lobb
+si,2,female,4,39.0,S,Marion Louise,Becker
+no,2,male,26,10.5,S,Lawrence,Gavey
+no,3,male,27,14.4542,C,Antoni,Yasbeck
+si,1,male,42,52.5542,S,Edwin Nelson Jr,Kimball
+si,3,male,20,15.7417,C,Sahid,Nakid
+no,3,male,21,7.8542,S,Henry Damsgaard,Hansen
+no,3,male,21,16.1,S,David John Dai,Bowen
+no,1,male,61,32.3208,S,Frederick,Sutton
+no,2,male,57,12.35,Q,Charles Leonard,Kirkland
+si,1,female,21,77.9583,S,Gretchen Fiske,Longley
+no,3,male,26,7.8958,S,Guentcho,Bostandyeff
+no,3,male,28,7.7333,Q,Patrick D,OConnell
+si,1,male,80,30.0,S,Algernon Henry Wilson,Barkworth
+no,3,male,51,7.0542,S,Johan Svensson,Lundahl
+si,1,male,32,30.5,C,Max,Stahelin-Maeglin
+no,1,male,28,0.0,S,William Henry Marsh,Parr
+no,3,female,9,27.9,S,Mabel,Skoog
+si,2,female,28,13.0,S,Mary,Davis
+no,3,male,32,7.925,S,Antti Gustaf,Leinonen
+no,2,male,31,26.25,S,Harvey,Collyer
+no,3,female,41,39.6875,S,Maria Emilia Ojala,Panula
+no,3,male,28,16.1,S,Percival,Thorneycroft
+no,3,male,20,7.8542,S,Hans Peder,Jensen
+si,1,female,24,69.3,C,Emma,Sagesser
+no,3,female,2,27.9,S,Margit Elizabeth,Skoog
+si,3,male,28,56.4958,S,Choong,Foo
+si,3,female,1,19.2583,C,Eugenie,Baclini
+si,1,male,48,76.7292,C,Henry Sleeper,Harper
+no,3,male,19,7.8958,S,Liudevit,Cor
+si,1,male,56,35.5,C,Oberst Alfons,Simonius-Blumer
+no,3,male,28,7.55,S,Edward,Willey
+si,3,female,23,7.55,S,Amy Zillah Elsie,Stanley
+no,3,male,28,7.8958,S,Mito,Mitkoff
+si,2,female,18,23.0,S,Elsie,Doling
+no,3,male,21,8.4333,S,Johannes Halvorsen,Kalvik
+si,3,female,28,7.8292,Q,Hanora Norah,OLeary
+no,3,female,18,6.75,Q,Hanora Nora,Hegarty
+no,2,male,24,73.5,S,Leonard Mark,Hickman
+no,3,male,28,7.8958,S,Alexander,Radeff
+no,3,female,32,15.5,Q,Catherine,Bourke
+no,2,male,23,13.0,S,George Floyd,Eitemiller
+no,1,male,58,113.275,C,Arthur Webster,Newell
+si,1,male,50,133.65,S,Henry William,Frauenthal
+no,3,male,40,7.225,C,Mohamed,Badt
+no,1,male,47,25.5875,S,Edward Pomeroy,Colley
+no,3,male,36,7.4958,S,Peju,Coleff
+si,3,male,20,7.925,S,Eino William,Lindqvist
+no,2,male,32,73.5,S,Lewis,Hickman
+no,2,male,25,13.0,S,Reginald Fenton,Butler
+no,3,male,28,7.775,S,Knud Paust,Rommetvedt
+no,3,male,43,8.05,S,Jacob,Cook
+si,1,female,28,52.0,S,Juliet Cummins Wright,Taylor
+si,2,female,40,39.0,S,Elizabeth Catherine Ford,Brown
+no,1,male,31,52.0,S,Thornton,Davidson
+no,2,male,70,10.5,S,Henry Michael,Mitchell
+si,2,male,31,13.0,S,Charles,Wilhelms
+no,2,male,28,0.0,S,Ennis Hastings,Watson
+no,3,male,18,7.775,S,Gustaf Hjalmar,Edvardsson
+no,3,male,24,8.05,S,Frederick Charles,Sawyer
+si,3,female,18,9.8417,S,Anna Sofia,Turja
+no,3,female,43,46.9,S,Augusta Tyler,Goodwin
+si,1,male,36,512.3292,C,Thomas Drake Martinez,Cardeza
+no,3,female,28,8.1375,Q,Katie,Peters
+si,1,male,27,76.7292,C,Hammad,Hassab
+no,3,male,20,9.225,S,Thor Anderson,Olsvigen
+no,3,male,14,46.9,S,Charles Edward,Goodwin
+no,2,male,60,39.0,S,Thomas William Solomon,Brown
+no,2,male,25,41.5792,C,Joseph Philippe Lemercier,Laroche
+no,3,male,14,39.6875,S,Jaako Arnold,Panula
+no,3,male,19,10.1708,S,Branko,Dakic
+no,3,male,18,7.7958,S,Eberhard Thelander,Fischer
+si,1,female,15,211.3375,S,Georgette Alexandra,Madill
+si,1,male,31,57.0,S,Albert Adrian,Dick
+si,3,female,4,13.4167,C,Manca,Karun
+si,3,male,28,56.4958,S,Ali,Lam
+no,3,male,25,7.225,C,Khalil,Saad
+no,1,male,60,26.55,S,John,Weir
+no,2,male,52,13.5,S,Charles Henry,Chapman
+no,3,male,44,8.05,S,James,Kelly
+si,3,female,28,7.7333,Q,Katherine Katie,Mullens
+no,1,male,49,110.8833,C,John Borland,Thayer
+no,3,male,42,7.65,S,Adolf Mathias Nicolai Olsen,Humblen
+si,1,female,18,227.525,C,Madeleine Talmadge Force,Astor
+si,1,male,35,26.2875,S,Spencer Victor,Silverthorne
+no,3,female,18,14.4542,C,Saiide,Barbara
+no,3,male,25,7.7417,Q,Martin,Gallagher
+no,3,male,26,7.8542,S,Henrik Juul,Hansen
+no,2,male,39,26.0,S,Mr Henry Marshall,Morley
+si,2,female,45,13.5,S,Florence Fannie,Kelly
+si,1,male,42,26.2875,S,Edward Pennington,Calderhead
+si,1,female,22,151.55,S,Alice,Cleaver
+si,3,male,28,15.2458,C,William George,Moubarek
+si,1,female,24,49.5042,C,Mrs de Villiers,Mayne
+no,1,male,28,26.55,S,Herman,Klaber
+si,1,male,48,52.0,S,Elmer Zebley,Taylor
+no,3,male,29,9.4833,S,August Viktor,Larsson
+no,2,male,52,13.0,S,Samuel,Greenberg
+no,3,male,19,7.65,S,Peter Andreas Lauritz Andersen,Soholt
+si,1,female,38,227.525,C,Caroline Louise,Endres
+si,2,female,27,10.5,S,Edwina Celia Winnie,Troutt
+no,3,male,28,15.5,Q,Michael,McEvoy
+no,3,male,33,7.775,S,Malkolm Joackim,Johnson
+si,2,female,6,33.0,S,Annie Jessie Nina,Harper
+no,3,male,17,7.0542,S,Svend Lauritz,Jensen
+no,2,male,34,13.0,S,William Henry,Gillespie
+no,2,male,50,13.0,S,Henry Price,Hodges
+si,1,male,27,53.1,S,Norman Campbell,Chambers
+no,3,male,20,8.6625,S,Luka,Oreskovic
+si,2,female,30,21.0,S,Lillian Jefferys,Renouf
+si,3,female,28,7.7375,Q,Margareth,Mannion
+no,2,male,25,26.0,S,Kurt Arnold Gottfrid,Bryhl
+no,3,female,25,7.925,S,Pieta Sofia,Ilmakangas
+si,1,female,29,211.3375,S,Elisabeth Walton,Allen
+no,3,male,11,18.7875,C,Houssein G N,Hassan
+no,2,male,28,0.0,S,Robert J,Knight
+no,2,male,23,13.0,S,William John,Berriman
+no,2,male,23,13.0,S,Moses Aaron,Troupiansky
+no,3,male,28,16.1,S,Leslie,Williams
+no,3,female,48,34.375,S,Margaret Ann Watson,Ford
+si,1,male,35,512.3292,C,Gustave J,Lesurer
+no,3,male,28,7.8958,S,Kanio,Ivanoff
+no,3,male,28,7.8958,S,Minko,Nankoff
+si,1,male,28,30.0,S,Walter James,Hawksford
+no,1,male,36,78.85,S,Tyrell William,Cavendish
+si,1,female,21,262.375,C,Susan Parker Suzette,Ryerson
+no,3,male,24,16.1,S,Neal,McNamee
+si,3,male,31,7.925,S,Juho,Stranden
+no,1,male,70,71.0,S,Edward Gifford,Crosby
+no,3,male,16,20.25,S,Rossmore Edward,Abbott
+si,2,female,30,13.0,S,Anna,Sinkkonen
+no,1,male,19,53.1,S,Daniel Warner,Marvin
+no,3,male,31,7.75,Q,Michael,Connaghton
+si,2,female,4,23.0,S,Joan,Wells
+si,3,male,6,12.475,S,Meier,Moor
+no,3,male,33,9.5,S,Johannes Joseph,Vande Velde
+no,3,male,23,7.8958,S,Lalio,Jonkoff
+si,2,female,48,65.0,S,Jane Laver,Herman
+si,2,male,1,14.5,S,Viljo,Hamalainen
+no,3,male,28,7.7958,S,August Sigfrid,Carlsson
+no,2,male,18,11.5,S,Percy Andrew,Bailey
+no,3,male,34,8.05,S,Thomas Leonard,Theobald
+si,1,female,33,86.5,S,Lucy Noel Martha Dyer-Edwards,Rothes
+no,3,male,28,14.5,S,John,Garfirth
+no,3,male,41,7.125,S,Iisakki Antino Aijo,Nirva
+si,3,male,20,7.2292,C,Hanna Assi,Barah
+si,1,female,36,120.0,S,Lucile Polk,Carter
+no,3,male,16,7.775,S,Hans Linus,Eklund
+si,1,female,51,77.9583,S,Anna Andrews,Hogeboom
+no,1,male,28,39.6,C,Arthur Jackson,Brewe
+no,3,female,30,7.75,Q,Mary,Mangan
+no,3,male,28,24.15,Q,Daniel J,Moran
+no,3,male,32,8.3625,S,Daniel Danielsen,Gronnestad
+no,3,male,24,9.5,S,Rene Aime,Lievens
+no,3,male,48,7.8542,S,Niels Peder,Jensen
+no,2,female,57,10.5,S,Mary,Mack
+no,3,male,28,7.225,C,Dibo,Elias
+si,2,female,54,23.0,S,Eliza Needs,Hocking
+no,3,male,18,7.75,S,Pehr Fabian Oliver Malkolm,Myhrman
+no,3,male,28,7.75,Q,Roger,Tobin
+si,3,female,5,12.475,S,Virginia Ethel,Emanuel
+no,3,male,28,7.7375,Q,Thomas J,Kilgannon
+si,1,female,43,211.3375,S,Elisabeth Walton McMillan,Robert
+si,3,female,13,7.2292,C,Banoura,Ayoub
+si,1,female,17,57.0,S,Vera Gillespie,Dick
+no,1,male,29,30.0,S,Milton Clyde,Long
+no,3,male,28,23.45,S,Andrew G,Johnston
+no,3,male,25,7.05,S,William,Ali
+no,3,male,25,7.25,S,David Lishin,Harmer
+si,3,female,18,7.4958,S,Anna Sofia,Sjoblom
+no,3,male,8,29.125,Q,George Hugh,Rice
+si,3,male,1,20.575,S,Bertram Vere,Dean
+no,1,male,46,79.2,C,Benjamin,Guggenheim
+no,3,male,28,7.75,Q,Andrew Andy,Keane
+no,2,male,16,26.0,S,Alfred,Gaskell
+no,3,female,28,69.55,S,Stella Anna,Sage
+no,1,male,28,30.6958,C,William Fisher,Hoyt
+no,3,male,25,7.8958,S,Ristiu,Dantcheff
+no,2,male,39,13.0,S,Richard,Otter
+si,1,female,49,25.9292,S,Farnham,Leader
+si,3,female,31,8.6833,S,Mara,Osman
+no,3,male,30,7.2292,C,Yousseff,Ibrahim Shawah
+no,3,female,30,24.15,S,Rosalie Paula Govaert,Van Impe
+no,2,male,34,13.0,S,Martin,Ponesell
+si,2,female,31,26.25,S,Charlotte Annie Tate,Collyer
+si,1,male,11,120.0,S,William Thornton II,Carter
+si,3,male,0,8.5167,C,Assad Alexander,Thomas
+si,3,male,27,6.975,S,Oskar Arvid,Hedman
+no,3,male,31,7.775,S,Karl Johan,Johansson
+no,1,male,39,0.0,S,Thomas Jr,Andrews
+no,3,female,18,7.775,S,Ellen Natalia,Pettersson
+no,2,male,39,13.0,S,August,Meyer
+si,1,female,33,53.1,S,Bertha Griggs,Chambers
+no,3,male,26,7.8875,S,William,Alexander
+no,3,male,39,24.15,S,James,Lester
+no,2,male,35,10.5,S,Richard James,Slemen
+no,3,female,6,31.275,S,Ebba Iris Alfrida,Andersson
+no,3,male,30,8.05,S,Ernest Portage,Tomlin
+no,1,male,28,0.0,S,Richard,Fry
+no,3,female,23,7.925,S,Wendla Maria,Heininen
+no,2,male,31,37.0042,C,Albert,Mallet
+no,3,male,43,6.45,S,John Fredrik Alexander,Holm
+no,3,male,10,27.9,S,Karl Thorsten,Skoog
+si,1,female,52,93.5,S,Clara Jennings Gregg,Hays
+si,3,male,27,8.6625,S,Nikola,Lulic
+no,1,male,38,0.0,S,John George,Reuchlin
+si,3,female,27,12.475,S,Beila,Moor
+no,3,male,2,39.6875,S,Urho Abraham,Panula
+no,3,male,28,6.95,Q,John,Flynn
+no,3,male,28,56.4958,S,Len,Lam
+si,2,male,1,37.0042,C,Andre,Mallet
+si,3,male,28,7.75,Q,Thomas Joseph,McCormack
+si,1,female,62,80.0,,Martha Evelyn,Stone
+si,3,female,15,14.4542,C,Selini Alexander,Yasbeck
+si,2,male,1,18.75,S,George Sibley,Richards
+no,3,male,28,7.2292,C,Amin,Saad
+no,3,male,23,7.8542,S,Albert,Augustsson
+no,3,male,18,8.3,S,Owen George,Allum
+si,1,female,39,83.1583,C,Sara Rebecca,Compton
+no,3,male,21,8.6625,S,Jakob,Pasic
+no,3,male,28,8.05,S,Maurice,Sirota
+si,3,male,32,56.4958,S,Chang,Chip
+si,1,male,28,29.7,C,Pierre,Marechal
+no,3,male,20,7.925,S,Ilmari Rudolf,Alhomaki
+no,2,male,16,10.5,S,Thomas Charles,Mudd
+si,1,female,30,31.0,C,Augusta,Serepeca
+no,3,male,34,6.4375,C,Peter L,Lemberopolous
+no,3,male,17,8.6625,S,Jeso,Culumovic
+no,3,male,42,7.55,S,Anthony,Abbing
+no,3,male,28,69.55,S,Douglas Bullen,Sage
+no,3,male,35,7.8958,C,Marin,Markoff
+no,2,male,28,33.0,S,John,Harper
+si,1,female,28,89.1042,C,Edwiga Grabowska,Goldenberg
+no,3,male,4,31.275,S,Sigvard Harald Elias,Andersson
+no,3,male,74,7.775,S,Johan,Svensson
+no,3,female,9,15.2458,C,Nourelain,Boulos
+si,1,female,16,39.4,S,Mary Conover,Lines
+no,2,female,44,26.0,S,Lilian Hughes,Carter
+si,3,female,18,9.35,S,Leah Rosen,Aks
+si,1,female,45,164.8667,S,Mary Hitchcock,Wick
+si,1,male,51,26.55,S,Peter Denis,Daly
+si,3,female,24,19.2583,C,Latifa Qurban,Baclini
+no,3,male,28,7.2292,C,Raihed,Razi
+no,3,male,41,14.1083,S,Claus Peter,Hansen
+no,2,male,21,11.5,S,Frederick Edward,Giles
+si,1,female,48,25.9292,S,Margaret Welles Barron,Swift
+no,3,female,28,69.55,S,Dorothy Edith Dolly,Sage
+no,2,male,24,13.0,S,John William,Gill
+si,2,female,42,13.0,S,Karolina,Bystrom
+si,2,female,27,13.8583,C,Asuncion,Duran y More
+no,1,male,31,50.4958,S,Washington Augustus II,Roebling
+no,3,male,28,9.5,S,Philemon,van Melkebeke
+si,3,male,4,11.1333,S,Harold Theodor,Johnson
+no,3,male,26,7.8958,S,Cerin,Balkic
+si,1,female,47,52.5542,S,Sallie Monypeny,Beckwith
+no,1,male,33,5.0,S,Frans Olof,Carlsson
+no,3,male,47,9.0,S,Victor,Vander Cruyssen
+si,2,female,28,24.0,C,Hannah Wizosky,Abelson
+si,3,female,15,7.225,C,Adele Kiamie Jane,Najib
+no,3,male,20,9.8458,S,Alfred Ossian,Gustafsson
+no,3,male,19,7.8958,S,Nedelio,Petroff
+no,3,male,28,7.8958,S,Kristo,Laleff
+si,1,female,56,83.1583,C,Lily Alexenia Wilson,Potter
+si,2,female,25,26.0,S,Imanita Parrish Hall,Shelley
+no,3,male,33,7.8958,S,Johann,Markun
+no,3,female,22,10.5167,S,Gerda Ulrika,Dahlberg
+no,2,male,28,10.5,S,Frederick James,Banfield
+no,3,male,25,7.05,S,Henry Jr,Sutehall
+no,3,female,39,29.125,Q,Margaret Norton,Rice
+no,2,male,27,13.0,S,Juozas,Montvila
+si,1,female,19,30.0,S,Margaret Edith,Graham
+no,3,female,28,23.45,S,Catherine Helen Carrie,Johnston
+si,1,male,26,30.0,C,Karl Howell,Behr
+no,3,male,32,7.75,Q,Patrick,Dooley
